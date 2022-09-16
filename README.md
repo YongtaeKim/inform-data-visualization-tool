@@ -2,7 +2,10 @@
 Visualizing output data from inForm(WSI analysis software) with Julia Pluto notebook.
 
 ## Instruction
-Simply open ```Visualize.jl``` in Pluto notebook.
+1. Download ```Visualize.jl``` and the sample dataset.
+2. Launch Pluto notebook and open the ```Visualize.jl```.
+3. Enter the path to the sample dataset (eg. ~/Downloads/sample_dataset/27_Scan1/) in the Pluto notebook.
+4. Notebook should be loaded with the sample data.
 
 ---
 
